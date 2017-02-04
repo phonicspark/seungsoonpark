@@ -27,15 +27,15 @@
 .navigation-clean .navbar-brand {
   font-weight:bold;
   color:inherit;
-  font-size:12px;
+  font-size:10px;
 }
 
 .navigation-clean .navbar-brand:hover {
-  color:#222;
+  color:#555;
 }
 
 .navigation-clean.navbar-inverse .navbar-brand:hover {
-  color:#f0f0f0;
+  color:#111;
 }
 
 .navigation-clean .navbar-brand img {
@@ -178,4 +178,3 @@ a.dropdown-toggle {
 .dropdown-menu {
   font-size:10px;
 }
-
